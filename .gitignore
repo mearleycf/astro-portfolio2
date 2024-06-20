@@ -17,8 +17,9 @@ pnpm-debug.log*
 .env
 .env.production
 
+# vercel generation
+.vercel/
+
 # macOS-specific files
 .DS_Store
 
-# jetbrains setting folder
-.idea/
