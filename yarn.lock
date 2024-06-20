@@ -1047,8 +1047,8 @@ __metadata:
   linkType: hard
 
 "@iconify/utils@npm:^2.1.10, @iconify/utils@npm:^2.1.5":
-  version: 2.1.24
-  resolution: "@iconify/utils@npm:2.1.24"
+  version: 2.1.25
+  resolution: "@iconify/utils@npm:2.1.25"
   dependencies:
     "@antfu/install-pkg": "npm:^0.1.1"
     "@antfu/utils": "npm:^0.7.7"
@@ -1057,7 +1057,7 @@ __metadata:
     kolorist: "npm:^1.8.0"
     local-pkg: "npm:^0.5.0"
     mlly: "npm:^1.6.1"
-  checksum: 10c0/4ad3f6ecf4e4255c56f3c5355bdba2ce2596ad884cc7c786a6d013101f94743e5297d6afca44ed282c0acd62927ab2c43e500e133a153bc210b27a7b2ec3e2e6
+  checksum: 10c0/fdebb434dbd0378f7c6b7f8c969f8d2a71b068d61e47564166695d710fc24d75afdb48f2f70e68a4bf3051dacffe8624689191fe55626496a58873b4a9385c50
   languageName: node
   linkType: hard
 
