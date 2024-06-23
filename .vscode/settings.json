@@ -9,5 +9,10 @@
   },
   // Controls auto save of editors that have unsaved changes.
   //  - onFocusChange: An editor with changes is automatically saved when the editor loses focus.
-  "files.autoSave": "onFocusChange"
+  "files.autoSave": "onFocusChange",
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#5C092D",
+    "titleBar.activeBackground": "#800D3E",
+    "titleBar.activeForeground": "#FFFCFD"
+  }
 }
